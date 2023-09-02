@@ -1,1 +1,3 @@
 
+{...props}
+=> key: value
