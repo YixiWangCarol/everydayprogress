@@ -7,3 +7,4 @@ nested
 route
 id useParams
 ＜Ｒｏｕｔｅ＞＜／Ｒｏｕｔｅ＞
+ｉｎｄｅｘ　　／ｐ
