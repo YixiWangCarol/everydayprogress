@@ -8,5 +8,5 @@ route
 id useParams
 ＜Ｒｏｕｔｅ＞＜／Ｒｏｕｔｅ＞
 ｉｎｄｅｘ　　
-
+sky
 
