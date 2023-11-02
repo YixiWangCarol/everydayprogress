@@ -13,3 +13,4 @@ sky
 sql
 cross joint outer joint left right using
 INSERT INTO
+sql
